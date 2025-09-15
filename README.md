@@ -5,4 +5,5 @@ En este repositorio encontramos las bases de datos utilizadas para el Workshop e
 - <a href="https://drive.google.com/file/d/1h6BEMF4KKEpTDkqIU8Hk2v-Wqbae8x-K/view?usp=sharing" target="_blank">Ejemplo 3: Concesión de préstamos</a>
 
 Para correr los archivos sin necesidad de tener una cuenta google, podéis usar el siguiente binder:
-- <a href="https://mybinder.org/v2/gh/josecalero/workshopigualdad2025/main" target="_blank">Binder para el workshop "XAI para la Comprensión ​de Sesgos:​ Metodologías y herramientas"</a>
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Fuminides/WorkshopIgualdad2025/HEAD)
