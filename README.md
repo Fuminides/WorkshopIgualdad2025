@@ -7,3 +7,5 @@ En este repositorio encontramos las bases de datos utilizadas para el Workshop e
 Para correr los archivos sin necesidad de tener una cuenta google, podéis usar el siguiente binder:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Fuminides/WorkshopIgualdad2025/HEAD)
+
+También podéis encontrar las diapositivas del workshop realizado el 16/09/25.
